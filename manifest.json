@@ -1,11 +1,13 @@
 {
- "name": "App",
- "icons": [
+  "name": "Silus Counter 'Cruz' 500,000",
+  "short_name": "Silus 'Cruz'", 
+  "start_url": "/Silus-Counter-3.bauska.org",
+  "display": "standalone",  "icons": [
   {
-   "src": "\/images/android-icon-36x36.png",
-   "sizes": "36x36",
-   "type": "image\/png",
-   "density": "0.75"
+  "src": "\/images/android-icon-36x36.png",
+  "sizes": "36x36",
+  "type": "image\/png",
+  "density": "0.75"
   },
   {
    "src": "\/images/android-icon-48x48.png",
